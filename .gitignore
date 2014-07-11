@@ -1,0 +1,6 @@
+.idea/
+atlassian-ide-plugin.xml
+.floo*
+vendor
+tmp
+var
